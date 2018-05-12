@@ -1,0 +1,31 @@
+_repo: The-Passion-for-Life_40102
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40102-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hocking, Joseph
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '4870'
+    url: http://www.gutenberg.org/2009/agents/4870
+description: ''
+gutenberg_issued: '2012-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sick -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine -- Fiction'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcsh 'Cornwall (England : County) -- Fiction'
+- !lcsh 'Spy stories'
+- !lcsh 'Love stories'
+title: The Passion for Life
+url: http://www.gutenberg.org/ebooks/40102
